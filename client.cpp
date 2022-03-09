@@ -1,6 +1,5 @@
 /**
  * TCP客户端通信基本流程
- * zhangyl 2018.12.13
  */
 #include <sys/types.h> 
 #include <sys/socket.h>
